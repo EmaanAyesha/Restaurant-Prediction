@@ -1,0 +1,211 @@
+U_id,Id,Address,Name,Online_Order,Book_Table,Rating,Contact,Location,Restaurant_Type,Cuisines,Approx_Cost(For 2 Persons),Approx_Cost(For 4 Persons),Approx_Cost(For 6 Persons),Approx_Cost(For 8 Persons),Approx_Cost(For 10 Persons),Listed(Type),Listed(City),Category_Type
+1,1,"10/A, M.A.C.H.S? Main Shahrah-e-Faisal Rd, Mohammad Ali Society Muhammad Ali Chs (Machs), Karachi, Karachi City, Sindh 75350",LalQila Restaurant Karachi,Yes,Yes,4.2,021-111525745,Mohammad Ali Society,"Buffet,
+hi-tea",Seafood,3500,7000,10000,14000,18000,"
+Dinner",Karachi,Friends
+2,2,"10/A, M.A.C.H.S? Main Shahrah-e-Faisal Rd, Mohammad Ali Society Muhammad Ali Chs (Machs), Karachi, Karachi City, Sindh 75350",LalQila Restaurant Karachi,Yes,Yes,4.2,021-111525745,Mohammad Ali Society,"Buffet,
+hi-tea",Continental,3500,7000,10000,14000,18000,Lunch,Karachi,Friends
+3,3,"10/A, M.A.C.H.S? Main Shahrah-e-Faisal Rd, Mohammad Ali Society Muhammad Ali Chs (Machs), Karachi, Karachi City, Sindh 75350",LalQila Restaurant Karachi,Yes,Yes,4.2,021-111525745,Mohammad Ali Society,"Buffet,
+hi-tea",BBQ,3500,7000,10000,14000,18000,Hi-tea,Karachi,Family
+4,1,"10/A, M.A.C.H.S? Main Shahrah-e-Faisal Rd, Mohammad Ali Society Muhammad Ali Chs (Machs), Karachi, Karachi City, Sindh 75350",LalQila Restaurant Karachi,Yes,Yes,4.2,021-111525745,Mohammad Ali Society,"Buffet,
+hi-tea",Desi,3500,7000,10000,14000,18000,Dinner,Karachi,Couple
+5,1,"10/A, M.A.C.H.S? Main Shahrah-e-Faisal Rd, Mohammad Ali Society Muhammad Ali Chs (Machs), Karachi, Karachi City, Sindh 75350",LalQila Restaurant Karachi,Yes,Yes,4.2,021-111525745,Mohammad Ali Society,"Buffet,
+hi-tea",Dessert,3500,7000,10000,14000,18000,Dinner,Karachi,Friends
+6,2,"Karsaz Road? Near Maritime Museum Park, Karsaz Faisal Cantonment, Karachi, Karachi City, Sindh",Rangoli Restaurant,Yes,Yes,4.1,021-99245287,Karsaz Road,"Buffet,
+hi-tea",BBQ,4000,8000,12000,16000,20000,"
+Hi-tea",Karachi,Friends
+7,2,"Karsaz Road? Near Maritime Museum Park, Karsaz Faisal Cantonment, Karachi, Karachi City, Sindh",Rangoli Restaurant,Yes,Yes,4.1,021-99245287,Karsaz Road,"Buffet,
+hi-tea",Desi,4000,8000,12000,16000,20000,"
+Brunch",Karachi,Couple
+8,2,"Karsaz Road? Near Maritime Museum Park, Karsaz Faisal Cantonment, Karachi, Karachi City, Sindh",Rangoli Restaurant,Yes,Yes,4.1,021-99245287,Karsaz Road,"Buffet,
+hi-tea",Continental,4000,8000,12000,16000,20000,"
+Dinner",Karachi,Family
+9,2,"Karsaz Road? Near Maritime Museum Park, Karsaz Faisal Cantonment, Karachi, Karachi City, Sindh",Rangoli Restaurant,Yes,Yes,4.1,021-99245287,Karsaz Road,"Buffet,
+hi-tea",Chinese,4000,8000,12000,16000,20000,"
+Hi-tea
+",Karachi,Couple
+10,2,"Karsaz Road? Near Maritime Museum Park, Karsaz Faisal Cantonment, Karachi, Karachi City, Sindh",Rangoli Restaurant,Yes,Yes,4.1,021-99245287,Karsaz Road,"Buffet,
+hi-tea",Dessert,4000,8000,12000,16000,20000,Lunch,Karachi,Family
+11,3,"Roof top of suzuki north motors, Block B F-94, Karachi, Karachi City, Sindh",Chaupal Buffet,Yes,Yes,3.9,0300 4370333,North Nazimabad,Buffet,BBQ,2000,4000,6000,8000,10000,Buffet Dinner,Karachi,Friends
+12,3,"Roof top of suzuki north motors, Block B F-94, Karachi, Karachi City, Sindh",Chaupal Buffet,Yes,Yes,3.9,0300 4370333,North Nazimabad,Buffet,Desi,2000,4000,6000,8000,10000,Buffet Dinner,Karachi,Friends
+13,3,"Roof top of suzuki north motors, Block B F-94, Karachi, Karachi City, Sindh",Chaupal Buffet,Yes,Yes,3.9,0300 4370333,North Nazimabad,Buffet,Chinese,2000,4000,6000,8000,10000,Buffet Dinner,Karachi,Couple
+14,3,"Roof top of suzuki north motors, Block B F-94, Karachi, Karachi City, Sindh",Chaupal Buffet,Yes,Yes,3.9,0300 4370333,North Nazimabad,Buffet,Thai,2000,4000,6000,8000,10000,Buffet Dinner,Karachi,Couple
+15,3,"Roof top of suzuki north motors, Block B F-94, Karachi, Karachi City, Sindh",Chaupal Buffet,Yes,Yes,3.9,0300 4370333,North Nazimabad,Buffet,Dessert,2000,4000,6000,8000,10000,Buffet Dinner,Karachi,Family
+16,4,"Plot 3b Abdul Sattar Edhi Ave, Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500",Clock Tower - The Food Bazaar,Yes,Yes,4.2,0300 1112873,DHA,"Buffet,
+hi-tea",BBQ,3600,7200,10500,15000,19000,"Lunch,
+Buffet,
+hi-tea",Karachi,Friends
+17,4,"Plot 3b Abdul Sattar Edhi Ave, Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500",Clock Tower - The Food Bazaar,Yes,Yes,4.2,0300 1112873,DHA,"Buffet,
+hi-tea",Desi,3600,7200,10500,15000,19000,"Lunch,
+Buffet,
+hi-tea",Karachi,Family
+18,4,"Plot 3b Abdul Sattar Edhi Ave, Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500",Clock Tower - The Food Bazaar,Yes,Yes,4.2,0300 1112873,DHA,"Buffet,
+hi-tea",Continental,3600,7200,10500,15000,19000,"Lunch,
+Buffet,
+hi-tea",Karachi,Couple
+19,4,"Plot 3b Abdul Sattar Edhi Ave, Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500",Clock Tower - The Food Bazaar,Yes,Yes,4.2,0300 1112873,DHA,"Buffet,
+hi-tea",Chinese,3600,7200,10500,15000,19000,"Lunch,
+Buffet,
+hi-tea",Karachi,Couple
+20,4,"Plot 3b Abdul Sattar Edhi Ave, Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500",Clock Tower - The Food Bazaar,Yes,Yes,4.2,0300 1112873,DHA,"Buffet,
+hi-tea",Dessert,3600,7200,10500,15000,19000,"Lunch,
+Buffet,
+hi-tea",Karachi,Family
+21,5,"RXRW+X3V, Karachi, Karachi City, Sindh",Seafront - BBQ & Grill,Yes,Yes,3.9,021-111254111,Beach Luxury Hotel,Buffet,BBQ,2500,5000,7500,10000,12500,Buffet,Karachi,Couple
+22,5,"RXRW+X3V, Karachi, Karachi City, Sindh",Seafront - BBQ & Grill,Yes,Yes,3.9,021-111254111,Beach Luxury Hotel,Buffet,Desi,2500,5000,7500,10000,12500,Buffet,Karachi,Family
+23,5,"RXRW+X3V, Karachi, Karachi City, Sindh",Seafront - BBQ & Grill,Yes,Yes,3.9,021-111254111,Beach Luxury Hotel,Buffet,Seafood,2500,5000,7500,10000,12500,Buffet,Karachi,Friends
+24,6,"Shop no 4, Ocean Towers, Shaheed-e-Millat Rd, Rohail Khand Society PECHS, Karachi, Karachi City, Sindh",Great Wall,Yes,Yes,4,0324 2336464,Shaheed-e-Millat Rd,"Buffet,
+hi-tea",Dessert,2850,5800,8750,11500,15000,"Buffet,
+Lunch,
+Hi-tea",Karachi,Couple
+25,6,"Shop no 4, Ocean Towers, Shaheed-e-Millat Rd, Rohail Khand Society PECHS, Karachi, Karachi City, Sindh",Great Wall,Yes,Yes,4,0324 2336464,Shaheed-e-Millat Rd,"Buffet,
+hi-tea",BBQ,2850,5800,8750,11500,15000,"Buffet,
+Lunch,
+Hi-tea",Karachi,Family
+26,6,"Shop no 4, Ocean Towers, Shaheed-e-Millat Rd, Rohail Khand Society PECHS, Karachi, Karachi City, Sindh",Great Wall,Yes,Yes,4,0324 2336464,Shaheed-e-Millat Rd,"Buffet,
+hi-tea",Desi,2850,5800,8750,11500,15000,"Buffet,
+Lunch,
+Hi-tea",Karachi,Friends
+27,7,"5/1, Boating Basin, Clifton, block-5 Block 5 Clifton, Karachi, Karachi City, Sindh 75600",Bar B.Q Tonight,Yes,Yes,4.3,021-111227111,"Boating Basin, Clifton","Buffet,
+hi-tea,
+lunch",BBQ,3200,6400,9600,12800,16000,"Buffet,
+Lunch,
+Hi-tea",Karachi,Friends
+28,7,"5/1, Boating Basin, Clifton, block-5 Block 5 Clifton, Karachi, Karachi City, Sindh 75600",Bar B.Q Tonight,Yes,Yes,4.3,021-111227111,"Boating Basin, Clifton","Buffet,
+hi-tea,
+lunch","
+SeaFood
+",3200,6400,9600,12800,16000,"Buffet,
+Lunch,
+Hi-tea",Karachi,Couple
+29,7,"5/1, Boating Basin, Clifton, block-5 Block 5 Clifton, Karachi, Karachi City, Sindh 75600",Bar B.Q Tonight,Yes,Yes,4.3,021-111227111,"Boating Basin, Clifton","Buffet,
+hi-tea,
+lunch",Afghani,3200,6400,9600,12800,16000,"Buffet,
+Lunch,
+Hi-tea",Karachi,Family
+30,8,"Avari Towers, Karachi Cantonment, Karachi, Karachi City, Sindh",SKY BBQ,Yes,Yes,4.2,021-35273498,Avari Towers Karachi,Buffet,Pakistani,2650,5400,8200,11000,13800,Buffet,Karachi,Friends
+31,8,"Avari Towers, Karachi Cantonment, Karachi, Karachi City, Sindh",SKY BBQ,Yes,Yes,4.2,021-35273498,Avari Towers Karachi,Buffet,BBQ,2650,5400,8200,11000,13800,Buffet,Karachi,Couple
+32,8,"Avari Towers, Karachi Cantonment, Karachi, Karachi City, Sindh",SKY BBQ,Yes,Yes,4.2,021-35273498,Avari Towers Karachi,Buffet,Dessert,2650,5400,8200,11000,13800,Buffet,Karachi,Family
+33,9,"Main, B 12 Shahrah-e-Faisal Rd, Karsaz KDA Scheme 1, Karachi, Karachi City, Sindh",Rosati Bistro,Yes,Yes,3.9,0300 0884220,Karsaz KDA Scheme 1,Hi-tea,SeaFood,2800,5599,8400,11200,14000,Buffet,Karachi,Couple
+34,9,"Main, B 12 Shahrah-e-Faisal Rd, Karsaz KDA Scheme 1, Karachi, Karachi City, Sindh",Rosati Bistro,Yes,Yes,3.9,0300 0884220,Karsaz KDA Scheme 1,Hi-tea,Continental,2800,5599,8400,11200,14000,Buffet,Karachi,Friends
+35,9,"Main, B 12 Shahrah-e-Faisal Rd, Karsaz KDA Scheme 1, Karachi, Karachi City, Sindh",Rosati Bistro,Yes,Yes,3.9,0300 0884220,Karsaz KDA Scheme 1,Hi-tea,Chinese,2800,5599,8400,11200,14000,Buffet,Karachi,Friends
+36,9,"Main, B 12 Shahrah-e-Faisal Rd, Karsaz KDA Scheme 1, Karachi, Karachi City, Sindh",Rosati Bistro,Yes,Yes,3.9,0300 0884220,Karsaz KDA Scheme 1,Hi-tea,Fastfood,2800,5599,8400,11200,14000,Buffet,Karachi,Couple
+37,9,"Main, B 12 Shahrah-e-Faisal Rd, Karsaz KDA Scheme 1, Karachi, Karachi City, Sindh",Rosati Bistro,Yes,Yes,3.9,0300 0884220,Karsaz KDA Scheme 1,Hi-tea,Shakes,2800,5599,8400,11200,14000,Buffet,Karachi,Family
+38,9,"Main, B 12 Shahrah-e-Faisal Rd, Karsaz KDA Scheme 1, Karachi, Karachi City, Sindh",Rosati Bistro,Yes,Yes,3.9,0300 0884220,Karsaz KDA Scheme 1,Hi-tea,Dessert,2800,5599,8400,11200,14000,Buffet,Karachi,Friends
+39,10,"Avari Towers Main Building, Karachi Cantonment, Karachi, Karachi City, Sindh",Asia Live,Yes,Yes,4.3,021-35660100,Avari Towers Karachi,"Buffet,
+Lunch,
+Munch",Fastfood,5600,11200,16799,22500,28199,Buffet,Karachi,Family
+40,10,"Avari Towers Main Building, Karachi Cantonment, Karachi, Karachi City, Sindh",Asia Live,Yes,Yes,4.3,021-35660100,Avari Towers Karachi,"Buffet,
+Lunch,
+Munch",Continental,5600,11200,16799,22500,28199,Buffet,Karachi,Couple
+41,10,"Avari Towers Main Building, Karachi Cantonment, Karachi, Karachi City, Sindh",Asia Live,Yes,Yes,4.3,021-35660100,Avari Towers Karachi,"Buffet,
+Lunch,
+Munch",Dessert,5600,11200,16799,22500,28199,Buffet,Karachi,Friends
+42,11,"A 563, Block 5, Gulshan e Iqbal, Opposit Urban Tarka, near Rab Medical Center, Karachi",Zameer Ansari - Gulshan-e-Iqbal Chapter,Yes,Yes,4,0311-1555146,"Gulshan e Iqbal, Block 5",Buffet,Pakistani,1700,3400,5100,6799,8500,Buffet,Karachi,Friends
+43,11,"A 563, Block 5, Gulshan e Iqbal, Opposit Urban Tarka, near Rab Medical Center, Karachi",Zameer Ansari - Gulshan-e-Iqbal Chapter,Yes,Yes,4,0311-1555146,"Gulshan e Iqbal, Block 5",Buffet,BBQ,1700,3400,5100,6799,8500,Buffet,Karachi,Family
+44,11,"A 563, Block 5, Gulshan e Iqbal, Opposit Urban Tarka, near Rab Medical Center, Karachi",Zameer Ansari - Gulshan-e-Iqbal Chapter,Yes,Yes,4,0311-1555146,"Gulshan e Iqbal, Block 5",Buffet,Seafood,1700,3400,5100,6799,8500,Buffet,Karachi,Friends
+45,11,"A 563, Block 5, Gulshan e Iqbal, Opposit Urban Tarka, near Rab Medical Center, Karachi",Zameer Ansari - Gulshan-e-Iqbal Chapter,Yes,Yes,4,0311-1555146,"Gulshan e Iqbal, Block 5",Buffet,Dessert,1700,3400,5100,6799,8500,Buffet,Karachi,Couple
+46,12,"Aqeela Arcade, Main Shaheed-e-Millat Road, Karachi Memon Society Karachi, Karachi City, Sindh",Kebabjees,Yes,Yes,4.2,021-111666111,Main Shaheed-e-Millat Road,"Buffet,
+Lunch",FastFood,2400,4799,7200,9600,12000,Buffet,Karachi,Friends
+47,12,"Aqeela Arcade, Main Shaheed-e-Millat Road, Karachi Memon Society Karachi, Karachi City, Sindh",Kebabjees,Yes,Yes,4.2,021-111666111,Main Shaheed-e-Millat Road,"Buffet,
+Lunch",Chinese,2400,4799,7200,9600,12000,Buffet,Karachi,Couple
+48,12,"Aqeela Arcade, Main Shaheed-e-Millat Road, Karachi Memon Society Karachi, Karachi City, Sindh",Kebabjees,Yes,Yes,4.2,021-111666111,Main Shaheed-e-Millat Road,"Buffet,
+Lunch",Pakistani,2400,4799,7200,9600,12000,Buffet,Karachi,Family
+49,13,"Shop no 2? Plot b-73, Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Burger Lab,Yes,No,3.9,021-111112522,Block L North Nazimabad Town,"Lunch,
+Quick bites",FastFood,1200,2400,3600,4800,6000,Lunch,Karachi,Family
+50,14,"Plot SB-3 To Kaybees, Allama Shabbir Ahmed Usmani Rd, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300",Burger O'Clock,Yes,No,4.2,021-111432532,Allama Shabbir Ahmed Usmani Rd,"Lunch,
+Quick bites",FastFood,1300,2600,3900,5200,6500,Lunch,Karachi,Friends
+51,14,"Plot SB-3 To Kaybees, Allama Shabbir Ahmed Usmani Rd, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300",Burger O'Clock,Yes,No,4.2,021-111432532,Allama Shabbir Ahmed Usmani Rd,"Lunch,
+Quick bites",FastFood,1300,2600,3900,5200,6500,Lunch,Karachi,Couple
+52,14,"Plot SB-3 To Kaybees, Allama Shabbir Ahmed Usmani Rd, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300",Burger O'Clock,Yes,No,4.2,021-111432532,Allama Shabbir Ahmed Usmani Rd,"Lunch,
+Quick bites",FastFood,1300,2600,3900,5200,6500,Lunch,Karachi,Family
+53,15,"119 Captain Fareed Bukhari Shaheed Road, Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",The Sauce Burger Cafe,Yes,No,4.2,021-111172823,Block A Sindhi Muslim,"Lunch,
+Quick bites",FastFood,950,1900,2850,3800,4750,Lunch,Karachi,Family
+54,15,"119 Captain Fareed Bukhari Shaheed Road, Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",The Sauce Burger Cafe,Yes,No,4.2,021-111172823,Block A Sindhi Muslim,"Lunch,
+Quick bites",shakes,950,1900,2850,3800,4750,Lunch,Karachi,Couple
+55,15,"119 Captain Fareed Bukhari Shaheed Road, Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",The Sauce Burger Cafe,Yes,No,4.2,021-111172823,Block A Sindhi Muslim,"Lunch,
+Quick bites",Dessert,950,1900,2850,3800,4750,Lunch,Karachi,Family
+56,16,"Sumera Square, Allama Shabbir Ahmed Usmani Rd, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",Oh My Grill,Yes,No,4.1,0311 1664664,Allama Shabbir Ahmed Usmani Rd,"Lunch,
+Quick bites",FastFood,1400,2799,4200,5600,7000,Lunch,Karachi,Couple
+57,17,"Shops 1-2, Ground Floor, United Centre SC-2, Block L, KDA Scheme #1 Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Coffee Wagera,No,No,4.4,021-36670930,Block L North Nazimabad Town,"Lunch,
+Quick bites",Beverage,900,1800,2750,3650,4600,Lunch,Karachi,Friends
+58,17,"Shops 1-2, Ground Floor, United Centre SC-2, Block L, KDA Scheme #1 Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Coffee Wagera,No,No,4.4,021-36670930,Block L North Nazimabad Town,"Lunch,
+Quick bites",FastFood,900,1800,2750,3650,4600,Lunch,Karachi,Family
+59,18,"Shahrah-e-Jahangir Rd, Block H North Nazimabad Town, Karachi, Karachi City, Sindh",Pizza Max,No,No,4,021-111629111,Block H North Nazimabad Town,"Lunch,
+Quick bites",FastFood,1200,2400,3599,4750,6050,Lunch,Karachi,Family
+60,18,"Shahrah-e-Jahangir Rd, Block H North Nazimabad Town, Karachi, Karachi City, Sindh",Pizza Max,No,No,4,021-111629111,Block H North Nazimabad Town,"Lunch,
+Quick bites",Continental,1200,2400,3599,4750,6050,Lunch,Karachi,Friends
+61,18,"Shahrah-e-Jahangir Rd, Block H North Nazimabad Town, Karachi, Karachi City, Sindh",Pizza Max,No,No,4,021-111629111,Block H North Nazimabad Town,"Lunch,
+Quick bites",Beverage,1200,2400,3599,4750,6050,Lunch,Karachi,Couple
+62,18,"Shahrah-e-Jahangir Rd, Block H North Nazimabad Town, Karachi, Karachi City, Sindh",Pizza Max,No,No,4,021-111629111,Block H North Nazimabad Town,"Lunch,
+Quick bites",Dessert,1200,2400,3599,4750,6050,Lunch,Karachi,Family
+63,19,"Shahrah-e-Pakistan, Federal B Area Block 6 Gulberg Town, Karachi, Karachi City, Sindh",KFC,Yes,No,4.2,021-111532532,Federal B Area Block 6 Gulberg Town,"Lunch,
+Quick bites","FastFood
+",1150,2300,3499,4599,5800,Lunch,Karachi,Family
+64,19,"Shahrah-e-Pakistan, Federal B Area Block 6 Gulberg Town, Karachi, Karachi City, Sindh",KFC,Yes,No,4.2,021-111532532,Federal B Area Block 6 Gulberg Town,"Lunch,
+Quick bites",Beverage,1150,2300,3499,4599,5800,Lunch,Karachi,Couple
+65,20,"Street #2, Block H North Nazimabad Town, Karachi, Karachi City, Sindh 74600",Tasty Foods,No,No,5,0323 2001734,Block H North Nazimabad Town,"Lunch,
+Quick bites",FastFood,950,1800,2750,3599,4550,Lunch,Karachi,Couple
+66,20,"Street #2, Block H North Nazimabad Town, Karachi, Karachi City, Sindh 74600",Tasty Foods,No,No,5,0323 2001734,Block H North Nazimabad Town,"Lunch,
+Quick bites",Beverages,950,1800,2750,3599,4550,Lunch,Karachi,Family
+67,21,"1st floor, Plot B64, Street 6, B 64, near Chugtai lab, Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Cafe Bistrovia,Yes,No,3.9,0331 8866371,Block L North Nazimabad Town,"Lunch,
+Quick bites",FastFood,1300,2650,4199,5499,6899,Lunch,Karachi,Couple
+68,21,"1st floor, Plot B64, Street 6, B 64, near Chugtai lab, Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Cafe Bistrovia,Yes,No,3.9,0331 8866371,Block L North Nazimabad Town,"Lunch,
+Quick bites",Chinese,1300,2650,4199,5499,6899,Lunch,Karachi,Friends
+69,21,"1st floor, Plot B64, Street 6, B 64, near Chugtai lab, Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Cafe Bistrovia,Yes,No,3.9,0331 8866371,Block L North Nazimabad Town,"Lunch,
+Quick bites",Italian,1300,2650,4199,5499,6899,Lunch,Karachi,Family
+70,21,"1st floor, Plot B64, Street 6, B 64, near Chugtai lab, Block L North Nazimabad Town, Karachi, Karachi City, Sindh",Cafe Bistrovia,Yes,No,3.9,0331 8866371,Block L North Nazimabad Town,"Lunch,
+Quick bites",Beverages,1300,2650,4199,5499,6899,Lunch,Karachi,Couple
+71,22,"W2RV+2Q2? Plot D? Sharah-e-Sher Shah Suri, Block D North Nazimabad Town, Karachi, Karachi City, Sindh",United King,Yes,No,4.3,021-36637000,Block D North Nazimabad Town,"Lunch,
+Quick bites",FastFood,1000,2099,3200,4200,5250,Lunch,Karachi,Friends
+72,22,"W2RV+2Q2? Plot D? Sharah-e-Sher Shah Suri, Block D North Nazimabad Town, Karachi, Karachi City, Sindh",United King,Yes,No,4.3,021-36637000,Block D North Nazimabad Town,"Lunch,
+Quick bites",Pakistani,1000,2099,3200,4200,5250,Lunch,Karachi,Family
+73,22,"W2RV+2Q2? Plot D? Sharah-e-Sher Shah Suri, Block D North Nazimabad Town, Karachi, Karachi City, Sindh",United King,Yes,No,4.3,021-36637000,Block D North Nazimabad Town,"Lunch,
+Quick bites",Beverages,1000,2099,3200,4200,5250,Lunch,Karachi,Couple
+74,23,"W2RX+FJF, Block H North Nazimabad Town, Karachi, Karachi City, Sindh",Karachi Broast,Yes,No,3.8,021-111276278,Block H North Nazimabad Town,"Lunch,
+Quick bites",Beverages,1000,2000,3000,4000,5000,Lunch,Karachi,Friends
+75,23,"W2RX+FJF, Block H North Nazimabad Town, Karachi, Karachi City, Sindh",Karachi Broast,Yes,No,3.8,021-111276278,Block H North Nazimabad Town,"Lunch,
+Quick bites",FastFood,1000,2000,3000,4000,5000,Lunch,Karachi,Family
+76,24,"Plot # 8C 10th Commercial Ln, Phase V Defence V Zamzama, Karachi, Karachi City, Sindh 75600",FLOC - for the love of coffee,Yes,No,4.1,021-35833555,Phase V Defence V Zamzama,"Lunch,
+Breakfast",FastFood,2250,4699,7250,9499,11800,Lunch,Karachi,Friends
+77,24,"Plot # 8C 10th Commercial Ln, Phase V Defence V Zamzama, Karachi, Karachi City, Sindh 75600",FLOC - for the love of coffee,Yes,No,4.1,021-35833555,Phase V Defence V Zamzama,"Lunch,
+Breakfast",Chinese,2250,4699,7250,9499,11800,Lunch,Karachi,Couple
+78,24,"Plot # 8C 10th Commercial Ln, Phase V Defence V Zamzama, Karachi, Karachi City, Sindh 75600",FLOC - for the love of coffee,Yes,No,4.1,021-35833555,Phase V Defence V Zamzama,"Lunch,
+Breakfast","
+Pakistani
+",2250,4699,7250,9499,11800,Lunch,Karachi,Family
+79,24,"Plot # 8C 10th Commercial Ln, Phase V Defence V Zamzama, Karachi, Karachi City, Sindh 75600",FLOC - for the love of coffee,Yes,No,4.1,021-35833555,Phase V Defence V Zamzama,"Lunch,
+Breakfast","
+Dessert",2250,4699,7250,9499,11800,Lunch,Karachi,Couple
+80,25,"Near Darul Sehat Hospital, Block 14 Gulistan-e-Johar, Karachi, Karachi City, Sindh",Frenchies,No,No,3.8,0324 2512020,Block 14 Gulistan e Johar,Quick Bites,FastFood,950,1800,2899,3799,4699,"Dinner,
+Quick bites",Karachi,Friends
+81,26,"Sindhi Muslim Cooperative Housing Society Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",Gloria Jean's,Yes,No,4.1,021-34534178,Block A Sindhi Muslim,"Breakfast,
+Lunch",FastFood,1450,2900,3450,5899,7499,Lunch,Karachi,Family
+82,26,"Sindhi Muslim Cooperative Housing Society Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",Gloria Jean's,Yes,No,4.1,021-34534178,Block A Sindhi Muslim,"Breakfast,
+Lunch",Desserts,1450,2900,3450,5899,7499,Lunch,Karachi,Family
+83,26,"Sindhi Muslim Cooperative Housing Society Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",Gloria Jean's,Yes,No,4.1,021-34534178,Block A Sindhi Muslim,"Breakfast,
+Lunch",Cakes,1450,2900,3450,5899,7499,Lunch,Karachi,Couple
+84,26,"Sindhi Muslim Cooperative Housing Society Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",Gloria Jean's,Yes,No,4.1,021-34534178,Block A Sindhi Muslim,"Breakfast,
+Lunch",Beverages,1450,2900,3450,5899,7499,Lunch,Karachi,Family
+85,26,"Sindhi Muslim Cooperative Housing Society Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Sindh",Gloria Jean's,Yes,No,4.1,021-34534178,Block A Sindhi Muslim,"Breakfast,
+Lunch",Continental,1450,2900,3450,5899,7499,Lunch,Karachi,Family
+86,27,"B-698, Federal B Area Block 13 Gulberg Town, Karachi, Karachi City, Sindh 75950",Studio 7teas,No,No,4.3,0323 7883467,Federal B Area Block 13 Gulberg Town,"Lunch,
+Dinner",FastFood,1850,3799,5700,7650,9650,"Lunch,
+Dinner",Karachi,Friends
+87,27,"B-698, Federal B Area Block 13 Gulberg Town, Karachi, Karachi City, Sindh 75950",Studio 7teas,No,No,4.3,0323 7883467,Federal B Area Block 13 Gulberg Town,"Lunch,
+Dinner",Chinese,1850,3799,5700,7650,9650,"Lunch,
+Dinner",Karachi,Family
+88,27,"B-698, Federal B Area Block 13 Gulberg Town, Karachi, Karachi City, Sindh 75950",Studio 7teas,No,No,4.3,0323 7883467,Federal B Area Block 13 Gulberg Town,"Lunch,
+Dinner",Continental,1850,3799,5700,7650,9650,"Lunch,
+Dinner",Karachi,Friends
+89,27,"B-698, Federal B Area Block 13 Gulberg Town, Karachi, Karachi City, Sindh 75950",Studio 7teas,No,No,4.3,0323 7883467,Federal B Area Block 13 Gulberg Town,"Lunch,
+Dinner",BBQ,1850,3799,5700,7650,9650,"Lunch,
+Dinner",Karachi,Couple
+90,27,"B-698, Federal B Area Block 13 Gulberg Town, Karachi, Karachi City, Sindh 75950",Studio 7teas,No,No,4.3,0323 7883467,Federal B Area Block 13 Gulberg Town,"Lunch,
+Dinner",Beverages,1850,3799,5700,7650,9650,"Lunch,
+Dinner",Karachi,Family
+91,28,"Shahjahan Ave, near peoples colony, Gulshan-e-Waseem Sector 16 A Batha Town, Karachi, Karachi City, Sindh",Cafe Piyala,No,No,4.3,0331 2702919,Gulshan e Waseem Sector 16 A,"Breakfast,
+Lunch",AndaParatha and Tea,350,750,1050,1500,1850,BreakFast,Karachi,Friends
+92,28,"Shahjahan Ave, near peoples colony, Gulshan-e-Waseem Sector 16 A Batha Town, Karachi, Karachi City, Sindh",Cafe Piyala,No,No,4.3,0331 2702919,Gulshan e Waseem Sector 16 A,"Breakfast,
+Lunch",Tea,350,750,1050,1500,1850,BreakFast,Karachi,Friends
+93,29,"Q3J4+F8P, D.H.A Phase 6 Muslim Commercial Area Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500",The Soda shop,No,No,4.9,0300 9216211,D.H.A Phase 6 Muslim Commercial,Refreshing Point,Soda and Juices,220,450,670,900,1100,Drink Shop,Karachi,Couple
+94,30,"Shop 19, Crown Gardens, Main University Rd, Block 4 Gulistan-e-Johar, Karachi, Karachi City, Sindh",CO2 The Soda Shop,Yes,No,5,0332 3502123,"Main University Rd, Block 4 Gulistan-e-Johar",Refreshing Point,Soda and Juices,200,400,600,800,1000,Drink Shop,Karachi,Family
